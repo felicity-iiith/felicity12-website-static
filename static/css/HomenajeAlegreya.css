@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alegreya'), local('Alegreya-Regular'), url(fonts/jvx_POxM6YeT6dBBhDfmufesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Homenaje';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Homenaje'), local('Homenaje-Regular'), url(fonts/74rNkO0_718VQPTEmPNsIvesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

@@ -1,0 +1,14 @@
+@font-face{
+	font-family: 'Alegreya', serif;
+}
+body{
+	font-family: WisdomScript;
+	font-size:22px;
+	background:rgba(16,16,16,0.9);
+}
+p.abc{
+	color:#AEBB51;
+}
+p{
+	color:#DEE4B9;
+}
